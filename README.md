@@ -1,5 +1,6 @@
-# eldb
-E-learning Data Fest
+#E-learning Data Fest
+
+Problem Statement: Compare workflows and feature usage of trial users, licensed users, and the behavior of users before and after licensing. This is done on 9 months of Captivate data.
 
 This repository contains:
 1) all the source code, for extraction and manipulation of data in the form of SQL files.
