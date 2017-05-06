@@ -1,0 +1,393 @@
+data_category,data_name
+Action Parameters,Action parameters Dialog open
+Adobe Stock,Adobe Stock Page Opened
+Adobe Stock,Downloading Asset
+Advanced Actions,Advanced Actions
+Advanced Actions,Shared Actions
+Advanced Actions:Advanced Actions,Advanced Action Usage/Dialog Opened/Save Advanced action
+Advanced Actions:Advanced Actions,Advanced Actions Dialog open
+Advanced Actions:Advanced Actions,Advanced Actions Save
+Advanced Actions:Shared Actions,"Shared action Incomplete
+"
+Advanced Actions:Shared Actions,Shared action Save
+Advanced Actions:Shared Actions:Advanced Action Dialog,Export Shared action
+Advanced Actions:Shared Actions:Advanced Action Dialog,Import Shared action
+Advanced Actions:Shared Actions:Dialog,Execute Shared Action
+Advanced Actions:Shared Actions:Library,Export Shared action
+Advanced Actions:Shared Actions:Library,Import Shared action
+Advanced Actions:Shared Actions:PI,Execute Shared Action
+Advanced Interaction,Advanced Interaction Palette Open
+Aggregator,Launched
+Application launch,Captivate launched
+Applying Theme,Theme Double Click Applied
+Applying Theme,Theme Single Click Applied
+Assets,Assets Tab Opened
+Assets:Dialog,Assets dialog launched
+Assets:Dialog,Downloaded  an asset
+Audio,Import Audio
+Audio,Record Audio
+Audio: System Audio,System Audio Import
+Audio: System Audio,System Audio Links
+Audio: System Audio,System Audio Record
+Branching View,Branching view launched
+BreakPoint,Changing BreakPoint Name
+BreakPoint,Changing BreakPoint Width Upper Bound
+BreakPoint,Changing Device Height
+BreakPoint,Changing Slide Height
+BreakPoint,Delete BreakPoint
+Capture,Audio
+Capture,Automatic
+Capture,FMR
+Capture,Manual
+Capture,Panning
+Capture,Recording Dialog
+Capture,System Audio
+Characters,Character ABMChristinaDuryea inserted
+Characters,Character Angela inserted
+Characters,Character Anthony inserted
+Characters,Character Asha inserted
+Characters,Character Brad inserted
+Characters,Character Brady inserted
+Characters,Character Bruce inserted
+Characters,Character Christine inserted
+Characters,Character Clair inserted
+Characters,Character Claudia inserted
+Characters,Character Courtney inserted
+Characters,Character David inserted
+Characters,Character Diego inserted
+Characters,Character Frank inserted
+Characters,Character from Assets inserted
+Characters,Character George inserted
+Characters,Character Jacalyn inserted
+Characters,Character Jaela inserted
+Characters,Character Jamie inserted
+Characters,Character Jen inserted
+Characters,Character Kate inserted
+Characters,Character Kevin inserted
+Characters,Character Mark inserted
+Characters,Character Mason inserted
+Characters,Character Melanie inserted
+Characters,Character Rebecca inserted
+Characters,Character Samantha inserted
+Characters,Character Sarah inserted
+Characters,Character Sasha inserted
+Characters,Character Steve inserted
+Characters,Character StickMan inserted
+Characters,Character StickWoman inserted
+Characters,Character Stock inserted
+Characters,Character Sucre inserted
+Characters,Character Susan inserted
+Characters,Character Sylvia inserted
+Characters,Character Tad inserted
+Characters,Character Tyrell inserted
+Characters,Characters Panel opened
+Characters Category,Assets
+Characters Category,Business
+Characters Category,Business7
+Characters Category,Casual
+Characters Category,Chase
+Characters Category,Children
+Characters Category,Genesys
+Characters Category,Illustrated
+Characters Category,Medicine
+Characters Category,NextGen
+Characters Category,Wesley
+Characters Specifics,Debbie
+Characters Specifics,Female
+Characters Specifics,Genesys Black Logo
+Characters Specifics,Male
+Characters Specifics,Maria
+Characters:Dialog,Characters Download Link Clicked
+Characters:PI,Replace Character Button Clicked
+Comments Panel,Updating Comments
+Community,Community panel closed
+Community,Community panel opened
+Community,Switching back to Community tab from Project tab
+Community,Switching to Project tab from Community tab
+ConvertToVideo,SWFToMP4
+CP213218724784Session,kCPChangeContextCommand
+CP213218724784Session,kCPChangeWorkspaceCommand
+CP213218724784Session,kCPCloseProjectCommand
+CP213218724784Session,kCPLoadButtonImageCommand
+CP213218724784Session,kCPLoadCaptionImageCommand
+CP213218724784Session,kCPLoadEffectStylesCommand
+CP213218724784Session,kCPLoadFLVSkinsCommand
+CP213218724784Session,kCPLoadImageFillImageCommand
+CP213218724784Session,kCPLoadPresetsXMLCommand
+CP213218724784Session,kCPLoadSkinsCommand
+CP213218724784Session,kCPLoadSpeechAgentCommand
+CP213218724784Session,kCPLoadTextureCommand
+CP213218724784Session,kCPLoadWorkspaceCommand
+CP213218724784Session,kCPModalDialogOpenCommand
+CP213218724784Session,kCPNewProjectCommand
+CP213218724784Session,kCPResetWorkspaceCommand
+CP290441950093640Session,kCPChangeWorkspaceCommand
+CP290441950093640Session,kCPLoadButtonImageCommand
+CP290441950093640Session,kCPLoadCaptionImageCommand
+CP290441950093640Session,kCPLoadEffectStylesCommand
+CP290441950093640Session,kCPLoadFLVSkinsCommand
+CP290441950093640Session,kCPLoadImageFillImageCommand
+CP290441950093640Session,kCPLoadPresetsXMLCommand
+CP290441950093640Session,kCPLoadSkinsCommand
+CP290441950093640Session,kCPLoadSpeechAgentCommand
+CP290441950093640Session,kCPLoadTextureCommand
+CP290441950093640Session,kCPLoadWorkspaceCommand
+CP290441950093640Session,kCPResetWorkspaceCommand
+CP290441950093640Session,kCPSaveWorkspaceCommand
+CPAutoUpdateNotifier,Clicking on remind later button
+CPAutoUpdateNotifier,Throwing the updater dialog
+CPAutoUpdateNotifier,Updater Dialog
+CPD1b52efe9fc7a4ff49457dfae214cf85c,kCPChangeContextCommand
+CPD1b52efe9fc7a4ff49457dfae214cf85c,kCPMenuItemFocusChangedCommand
+CPD1b52efe9fc7a4ff49457dfae214cf85c,kCPModalDialogClosedCommand
+CPD1b52efe9fc7a4ff49457dfae214cf85c,kCPModalDialogOpenCommand
+CPD1b52efe9fc7a4ff49457dfae214cf85c,kCPModifySessionGeneralPreferencesCommand
+CPD1b52efe9fc7a4ff49457dfae214cf85c,kCPSaveWorkspaceCommand
+CPD1b52efe9fc7a4ff49457dfae214cf85c,kUpdateResourceStatusCommand
+CPVC,Additional Recording inCPVC
+CPVC,Audio Resource In CPVC
+CPVC,Edit Mouse Points inCPVC
+CPVC,Insert Object in CPVC
+CPVC,Pan N Zoom in CPVC
+CPVC,PIP Video in CPVC
+CPVC,Remove Transition in CPVC
+CPVC,Timeline used in CPVC
+CPVC,Transition Added in CPVC
+CPVC:PI,Edit Video in CPVC
+CPVC:Publish,Publish To Youtube in CPVC
+DeviceCapture,Dimensions
+DeviceCapture,InsertGesture
+DeviceCapture,Launch
+Drag Drop Interaction,Create Drag Drop Interaction
+eLearning Brothers,Downloading Asset
+eLearning Brothers,eLearning brothers page opened
+Equation,Edited
+Equation,Inserted
+Export,Preferences
+Export,Project Captions and Closed Captions
+Export,Styles
+Export,XML
+External Library,Created
+Fill,Gradient Fill
+Find And Replace,Find And Replace Palette Opened
+Find in Library,Find In Library Action Executed
+FMR Edit,Delete
+FMR Edit,Insert
+FMR Edit,Merge
+FMR Edit,Split
+HTML5 Tracker,HTML5 Tracker Palette Opened
+Hyperlink,Insert Hyperlink
+Hyperlink,Modify Hyperlink
+Hyperlink:Dialog,Hyperlink Linked To Action
+Hyperlink:PI,Delete Hyperlink
+Hyperlink:PI,Insert Hyperlink
+Hyperlink:PI,Modify Hyperlink
+Import,Preferences
+Import,Project Captions and Closed Captions
+Import,Styles
+Import,XML
+Inserting Character,Character Double Click Inserted
+Inserting Character,Character Single Click Inserted
+Inserting media,Media Double Click Inserted
+Inserting Media,Media Single Click Inserted
+Interactions,---08_Glossary.wdgt
+Interactions,00_Infosemantics_CpExtra.wdgt
+Interactions,00_OunceGlossary.wdgt
+Interactions,08_Glossary-old.wdgt
+Interactions,08_Glossary_original.wdgt
+Interactions,08_Glossaryo.wdgt
+Interactions,Digital-Timer.wdgt
+Interactions,Insert Interaction
+Interactions,ld_radiobutton.wdgt
+Interactions,YoutubeNEW.wdgt
+License,Education license
+License,ELS license
+License,Pointproduct license
+License,Prerelease license
+License,Subscription Pointproduct license
+License,Try and buy license
+License,Volume license
+LMS,LMS Name
+LMS,LMS Type
+LMS:Acrobat,Set Acrobat LMS Parameter
+LMS:AICC,Set AICC Parameter
+LMS:Alternate Reporting:Internal Server,Configure Alternate Report Internla Server
+LMS:Internal Server,Set Internal Server LMS Parameter
+LMS:SCORM 1.2,Set SCORM 1.2 Parameter
+LMS:SCORM 2004,Set SCORM 2004 Parameter
+LMS:TINCAN,Set TINCAN Parameter
+Margins,Bottom Margin
+Margins,Left Margin
+Margins,Right Margin
+Margins,Top Margin
+Media,Media Panel opened
+My Asset,My Asset Dialog opened
+New Project,CPVC
+Object Effects,Effect Added
+Object Effects,Effect Removed
+Object Grouping,Timeline
+Object Grouping:PI:Size and Position,Group Repositioned
+Object Grouping:PI:Size and Position,Group Resized
+Object Grouping:Stage,Add Item to Group
+Object Grouping:Stage,Group Constrained/Unconstrained
+Object Grouping:Stage,Group Created
+Object Grouping:Stage,Group Deleted
+Object Grouping:Stage,Group hidden/unhidden
+Object Grouping:Stage,Group locked/unlocked
+Object Grouping:Stage,Group Merged
+Object Grouping:Stage,Group Pasted
+Object Grouping:Stage,Group Rotated
+Object Grouping:Stage,Group ungrouped
+Object Grouping:Stage,Item Removed from Group
+Object Grouping:Stage:Size and Position,Group Repositioned
+Object Grouping:Stage:Size and Position,Group Resized
+Object Grouping:Timeline,Group Appear After Changed
+Object Grouping:Timeline,Group Hide/Unhide
+Object Grouping:Timeline,Group Locked
+Object Grouping:Timeline,Group Z-Order Changed
+Object States,Add State
+Object States,Delete State
+Object States,Delete State 
+Object States,Duplicate State
+Object States,Enter Advanced State View
+Object States,Enter In-Place State Edit
+Object States,Exit Advanced State View
+Object States,Exit In-Place State Edit
+Object States,Rename State
+Object States,Reset State
+Object States,Set As Default State 
+Object States,Set Change State Action
+Objects,Toolbar
+Opening Project,Project Double Click Opened
+Opening Project,Project Single Click Opened
+PPT:Edit,Edit PPT
+Preview:SCORM Cloud,LMS Preview launched
+Project Corruption,Project Zip Corruption
+Project Creation,Blank Project
+Project Creation,Image Slideshow
+Project Creation,Project From PowerPoint
+Project Creation,Project From Template
+Project Creation,Project Template
+Project Creation,Responsive Project
+Project Creation,RTL project creation
+Project Import,Draft Project
+Project Information,Number of Slides
+Project Information,Project Duration in Secs
+Project Information,Project Size
+Project Resize,Larger
+Project Resize,Smaller
+Projects,Projects Panel opened
+Publish,Flash Player Version
+Publish,Publish Type
+Publish,Responsive project publish
+Publish,Skin Name
+Publish:Acap Publish,Prime Window launch
+Publish:Acap Publish,Publish to ACAP
+Publish:Email Publish,Email Publish type
+Publish:EXEPublish,Icon
+Publish:FTP Publish,FTP publish type
+Publish:HTML5 Publish,HTML5 Publish
+Publish:Mac App Publish,Mac App Publish Settings
+Publish:MP4 Publish,MP4 Publish Preset
+Publish:MP4 Publish,MP4 Publish Settings
+Publish:PDF Publish,PDF Publish
+Publish:Phone Gap,Platform
+Publish:Publish Setting,Geolocation
+Publish:Publish Setting,Mobile Gestures
+Publish:Publish To Connect,Publish To Connect
+Publish:Publish To Word,Publish To word
+Publish:Publish To Youtube,Publisht To Youtube
+Publish:Settings,Accessibility
+Publish:Settings,Branch Aware
+Publish:Settings,Preloader Percentage
+Publish:Settings,Preoader Used
+Publish:Settings,Publish Settings
+Publish:Settings,Submit All
+Publish:Swf Publish,Flash Player Version
+Publish:Swf Publish,Force Republish
+Publish:Swf Publish,SWF Publish
+Publish:Video Capture:Settings,Video Publish Settings
+Question Slides:FilmStrip,Knowledge Check
+Question Slides:FilmStrip,Question Type
+Question Slides:Question pool,Question type
+Reflection,Apply to all
+Reflection,Disabled
+Reflection,Enabled
+Reflection,Preset
+Responsive:Align Center,Horizontal Align Center
+Responsive:Align Center,Vertical Align Center
+Responsive:Break Point,Add breakPoint
+Responsive:Break Point,Delete Break Point
+Responsive:Break Point,Modify Break Point Width
+Responsive:Break Point,Modify Breakpoint Name
+Responsive:Break Point,Modify Device Height
+Responsive:Position,% Relative
+Responsive:Position:Links,Smart Position in Responsive
+Rotation,PI Rotation Hottext
+Rotation,Rotate Left
+Rotation,Rotate Right
+Roundtripping,Flash Roundtripping
+Roundtripping,PSD Roundtripping
+Roundtripping,Soundbooth Roundtripping
+Shadow,Apply to all
+Shadow,Disable
+Shadow,Disabled
+Shadow,Enabled
+Shadow,Modify
+Shadow,Preset
+Shared Review,Internal Server
+Slide Video,Import
+Spell Check,Dialog Opened
+Stage,Insert SVG
+Stock,Stock Dialog Launched
+SVG,Edit SVG
+SVG,Replace SVG
+TalkToAdobe,AutoLaunchedDialog
+TalkToAdobe,UserCheckedSendUsageData
+TalkToAdobe,UserDisabledAutoLaunch
+TalkToAdobe,UserEnabledAutoLaunch
+TalkToAdobe,UserLaunchedDialog
+TalkToAdobe,UserUncheckedSendUsageData
+Text To Audio,NeoSpeech
+Text To Audio,Speech Agents
+Themes,Apply Custom Theme
+Themes,Insert Master Slide
+Themes,Modify Master Slide
+Themes,Reset Master Slide
+Themes,Themes Panel opened
+Themes,Themes Skin Dialog
+Themes:Apply Theme,Apply Custom Theme
+Themes:Apply Theme,Apply Theme From Panel
+Themes:Apply Theme,Browse Themes
+Themes:Object Styles,OSM Launched
+Themes:Objects,Insert Content Placeholder
+Themes:Save Theme,Save As Theme
+Themes:Save Theme,Save Theme
+Themes:Save Theme,Set As Default Theme
+Themes:Theme Color,Apply Theme Color Scheme
+Themes:Theme Color,Create Theme Color Scheme
+Themes:Theme Color,Show Theme Colors
+TOC,TOC Created
+ToolBar,AddSlidesTool
+ToolBar,AdobeStockTool
+ToolBar,CommunityHelpTool
+ToolBar,InteractionsTool
+ToolBar,LibraryTool
+ToolBar,MarketTool
+ToolBar,MediaTool
+ToolBar,ObjectsTool
+ToolBar,PreviewTool
+ToolBar,PropertiesTool
+ToolBar,PublishTool
+ToolBar,RecordTool
+ToolBar,SaveTool
+ToolBar,ShapesTool
+ToolBar,TextTool
+Variables,Add GeoLocation Variable
+Variables,GeoLocation Map Dialog Open
+Video Transitions,NOVALUE
+Video Transitions,Video transition modified duration
+Video Transitions,Video transition modified type
+Video Transitions,Video transition turned ON
+Widget,Widget Inserted
+Widget: API,Browse Custom Resource for Widget

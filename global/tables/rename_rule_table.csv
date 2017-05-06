@@ -1,0 +1,306 @@
+Action Parameters,Action parameters Dialog open,1,Advanced_Actions
+Adobe Stock,Adobe Stock Page Opened,%STRING_VALUE%,Adobe_Stock
+Adobe Stock,Downloading Asset,%STRING_VALUE%,Adobe_Stock
+Advanced Actions,Advanced Actions,%STRING_VALUE%,Advanced_Actions
+Advanced Actions,Shared Actions,%STRING_VALUE%,Advanced_Actions
+Advanced Actions,Shared Actions,%STRING_VALUE%,Advanced_Actions
+Advanced Actions,Shared Actions,%STRING_VALUE%,Advanced_Actions
+Advanced Actions,Shared Actions,%STRING_VALUE%,Advanced_Actions
+Advanced Actions:Advanced Actions,Advanced Action Usage/Dialog Opened/Save Advanced action,1,Advanced_Actions
+Advanced Actions:Advanced Actions,Advanced Actions Dialog open,1,Advanced_Actions
+Advanced Actions:Advanced Actions,Advanced Actions Save,1,Advanced_Actions
+Advanced Actions:Shared Actions,"Shared action Incomplete
+",1,Advanced_Actions
+Advanced Actions:Shared Actions,Shared action Save,1,Advanced_Actions
+Advanced Actions:Shared Actions:Advanced Action Dialog,Export Shared action,1,Advanced_Actions
+Advanced Actions:Shared Actions:Advanced Action Dialog,Import Shared action,1,Advanced_Actions
+Advanced Actions:Shared Actions:Dialog,Execute Shared Action,1,Advanced_Actions
+Advanced Actions:Shared Actions:Library,Export Shared action,1,Advanced_Actions
+Advanced Actions:Shared Actions:Library,Import Shared action,1,Advanced_Actions
+Advanced Actions:Shared Actions:PI,Execute Shared Action,1,Advanced_Actions
+Aggregator,Launched,%STRING_VALUE%,Aggregator
+Application launch,Captivate launched,1,Application_Launch
+Applying Theme,Theme Double Click Applied,%STRING_VALUE%,Themes
+Applying Theme,Theme Single Click Applied,%STRING_VALUE%,Themes
+Assets,Assets Tab Opened,%STRING_VALUE%,Assets
+Assets:Dialog,Assets dialog launched,1,Assets
+Assets:Dialog,Downloaded  an asset,%STRING_VALUE%,Assets
+Audio,Import Audio,%STRING_VALUE%,Audio
+Audio,Record Audio,%STRING_VALUE%,Audio
+Audio: System Audio,System Audio Import,%STRING_VALUE%,Audio
+Audio: System Audio,System Audio Links,%STRING_VALUE%,Audio
+Audio: System Audio,System Audio Record,%STRING_VALUE%,Audio
+Branching View,Branching view launched,1,Branching_View
+BreakPoint,Changing BreakPoint Name,%STRING_VALUE%,Responsive
+BreakPoint,Changing BreakPoint Width Upper Bound,%STRING_VALUE%,Responsive
+BreakPoint,Changing Device Height,%STRING_VALUE%,Responsive
+BreakPoint,Changing Slide Height,%STRING_VALUE%,Responsive
+BreakPoint,Delete BreakPoint,%STRING_VALUE%,Responsive
+Capture,Audio,%STRING_VALUE%,Capture
+Capture,Automatic,%STRING_VALUE%,Capture
+Capture,FMR,%STRING_VALUE%,Capture
+Capture,Manual,%STRING_VALUE%,Capture
+Capture,Panning,%STRING_VALUE%,Capture
+Capture,Panning,%STRING_VALUE%,Capture
+Capture,Panning,%STRING_VALUE%,Capture
+Capture,Recording Dialog,%STRING_VALUE%,Capture
+Capture,System Audio,%STRING_VALUE%,Capture
+Characters,Character ABMChristinaDuryea inserted,%STRING_VALUE%,Characters
+Characters,Character Angela inserted,%STRING_VALUE%,Characters
+Characters,Character Anthony inserted,%STRING_VALUE%,Characters
+Characters,Character Asha inserted,%STRING_VALUE%,Characters
+Characters,Character Brad inserted,%STRING_VALUE%,Characters
+Characters,Character Brady inserted,%STRING_VALUE%,Characters
+Characters,Character Bruce inserted,%STRING_VALUE%,Characters
+Characters,Character Christine inserted,%STRING_VALUE%,Characters
+Characters,Character Clair inserted,%STRING_VALUE%,Characters
+Characters,Character Claudia inserted,%STRING_VALUE%,Characters
+Characters,Character Courtney inserted,%STRING_VALUE%,Characters
+Characters,Character David inserted,%STRING_VALUE%,Characters
+Characters,Character Diego inserted,%STRING_VALUE%,Characters
+Characters,Character Frank inserted,%STRING_VALUE%,Characters
+Characters,Character from Assets inserted,%STRING_VALUE%,Characters
+Characters,Character George inserted,%STRING_VALUE%,Characters
+Characters,Character Jacalyn inserted,%STRING_VALUE%,Characters
+Characters,Character Jaela inserted,%STRING_VALUE%,Characters
+Characters,Character Jamie inserted,%STRING_VALUE%,Characters
+Characters,Character Jen inserted,%STRING_VALUE%,Characters
+Characters,Character Kate inserted,%STRING_VALUE%,Characters
+Characters,Character Kevin inserted,%STRING_VALUE%,Characters
+Characters,Character Mark inserted,%STRING_VALUE%,Characters
+Characters,Character Mason inserted,%STRING_VALUE%,Characters
+Characters,Character Melanie inserted,%STRING_VALUE%,Characters
+Characters,Character Rebecca inserted,%STRING_VALUE%,Characters
+Characters,Character Samantha inserted,%STRING_VALUE%,Characters
+Characters,Character Sarah inserted,%STRING_VALUE%,Characters
+Characters,Character Sasha inserted,%STRING_VALUE%,Characters
+Characters,Character Steve inserted,%STRING_VALUE%,Characters
+Characters,Character StickMan inserted,%STRING_VALUE%,Characters
+Characters,Character StickWoman inserted,%STRING_VALUE%,Characters
+Characters,Character Stock inserted,%STRING_VALUE%,Characters
+Characters,Character Sucre inserted,%STRING_VALUE%,Characters
+Characters,Character Susan inserted,%STRING_VALUE%,Characters
+Characters,Character Sylvia inserted,%STRING_VALUE%,Characters
+Characters,Character Tad inserted,%STRING_VALUE%,Characters
+Characters,Character Tyrell inserted,%STRING_VALUE%,Characters
+Characters,Characters Panel opened,%STRING_VALUE%,Characters
+Characters Category,Assets,%STRING_VALUE%,Characters
+Characters Category,Business,%STRING_VALUE%,Characters
+Characters Category,Business7,%STRING_VALUE%,Characters
+Characters Category,Casual,%STRING_VALUE%,Characters
+Characters Category,Chase,%STRING_VALUE%,Characters
+Characters Category,Children,%STRING_VALUE%,Characters
+Characters Category,Genesys,%STRING_VALUE%,Characters
+Characters Category,Illustrated,%STRING_VALUE%,Characters
+Characters Category,Medicine,%STRING_VALUE%,Characters
+Characters Category,NextGen,%STRING_VALUE%,Characters
+Characters Category,Wesley,%STRING_VALUE%,Characters
+Characters Specifics,Debbie,%STRING_VALUE%,Characters
+Characters Specifics,Female,%STRING_VALUE%,Characters
+Characters Specifics,Genesys Black Logo,%STRING_VALUE%,Characters
+Characters Specifics,Male,%STRING_VALUE%,Characters
+Characters Specifics,Maria,%STRING_VALUE%,Characters
+Characters:Dialog,Characters Download Link Clicked,%STRING_VALUE%,Characters
+Characters:PI,Replace Character Button Clicked,1,Characters
+Community,Community panel closed,%STRING_VALUE%,Community
+Community,Community panel opened,%STRING_VALUE%,Community
+Community,Switching back to Community tab from Project tab,%STRING_VALUE%,Community
+Community,Switching to Project tab from Community tab,%STRING_VALUE%,Community
+CPVC,Additional Recording inCPVC,1,CPVC
+CPVC,Audio Resource In CPVC,%STRING_VALUE%,CPVC
+CPVC,Edit Mouse Points inCPVC,1,CPVC
+CPVC,Insert Object in CPVC,%STRING_VALUE%,CPVC
+CPVC,Pan N Zoom in CPVC,1,CPVC
+CPVC,PIP Video in CPVC,%STRING_VALUE%,CPVC
+CPVC,Remove Transition in CPVC,1,CPVC
+CPVC,Timeline used in CPVC,%STRING_VALUE%,CPVC
+CPVC,Transition Added in CPVC,%STRING_VALUE%,CPVC
+CPVC:PI,Edit Video in CPVC,1,CPVC
+CPVC:Publish,Publish To Youtube in CPVC,1,CPVC
+DeviceCapture,Dimensions,%STRING_VALUE%,Device_Capture
+DeviceCapture,InsertGesture,%STRING_VALUE%,Device_Capture
+DeviceCapture,Launch,1,Device_Capture
+Drag Drop Interaction,Create Drag Drop Interaction,%STRING_VALUE%,Drag_Drop_Interaction
+Drag Drop Interaction,Create Drag Drop Interaction,1,Drag_Drop_Interaction
+eLearning Brothers,Downloading Asset,%STRING_VALUE%,elearning_brothers
+eLearning Brothers,eLearning brothers page opened,%STRING_VALUE%,elearning_brothers
+Equation,Edited,%STRING_VALUE%,Math_Magic
+Equation,Inserted,%STRING_VALUE%,Math_Magic
+Export,Preferences,1,Export
+Export,Project Captions and Closed Captions,1,Export
+Export,Styles,1,Export
+Export,XML,1,Export
+FMR Edit,Delete,1,FMR
+FMR Edit,Insert,1,FMR
+FMR Edit,Merge,1,FMR
+FMR Edit,Split,1,FMR
+Hyperlink,Insert Hyperlink,1,Hyperlink
+Hyperlink,Modify Hyperlink,1,Hyperlink
+Hyperlink:Dialog,Hyperlink Linked To Action,%STRING_VALUE%,Hyperlink
+Hyperlink:PI,Delete Hyperlink,1,Hyperlink
+Hyperlink:PI,Insert Hyperlink,1,Hyperlink
+Hyperlink:PI,Modify Hyperlink,1,Hyperlink
+Import,Preferences,1,Import
+Import,Project Captions and Closed Captions,1,Import
+Import,Styles,1,Import
+Import,XML,1,Import
+Inserting Character,Character Double Click Inserted,%STRING_VALUE%,Characters
+Inserting Character,Character Single Click Inserted,%STRING_VALUE%,Characters
+Inserting media,Media Double Click Inserted,%STRING_VALUE%,Adobe_Stock
+Inserting Media,Media Single Click Inserted,%STRING_VALUE%,Adobe_Stock
+Interactions,---08_Glossary.wdgt,%STRING_VALUE%,Learning_Interactions
+Interactions,00_Infosemantics_CpExtra.wdgt,%STRING_VALUE%,Learning_Interactions
+Interactions,00_OunceGlossary.wdgt,%STRING_VALUE%,Learning_Interactions
+Interactions,08_Glossary-old.wdgt,%STRING_VALUE%,Learning_Interactions
+Interactions,08_Glossary_original.wdgt,%STRING_VALUE%,Learning_Interactions
+Interactions,08_Glossaryo.wdgt,%STRING_VALUE%,Learning_Interactions
+Interactions,Digital-Timer.wdgt,%STRING_VALUE%,Learning_Interactions
+Interactions,Insert Interaction,1,Learning_Interactions
+Interactions,Insert Interaction,%STRING_VALUE%,Learning_Interactions
+Interactions,ld_radiobutton.wdgt,%STRING_VALUE%,Learning_Interactions
+Interactions,YoutubeNEW.wdgt,%STRING_VALUE%,Learning_Interactions
+LMS,LMS Name,%STRING_VALUE%,LMS
+LMS,LMS Type,%STRING_VALUE%,LMS
+LMS:Acrobat,Set Acrobat LMS Parameter,%STRING_VALUE%,LMS
+LMS:AICC,Set AICC Parameter,%STRING_VALUE%,LMS
+LMS:Alternate Reporting:Internal Server,Configure Alternate Report Internla Server,1,LMS
+LMS:Internal Server,Set Internal Server LMS Parameter,%STRING_VALUE%,LMS
+LMS:SCORM 1.2,Set SCORM 1.2 Parameter,%STRING_VALUE%,LMS
+LMS:SCORM 2004,Set SCORM 2004 Parameter,%STRING_VALUE%,LMS
+LMS:TINCAN,Set TINCAN Parameter,%STRING_VALUE%,LMS
+My Asset,My Asset Dialog opened,%STRING_VALUE%,Assets
+New Project,CPVC,%STRING_VALUE%,Project_Creation
+Object Effects,Effect Added,1,Effects
+Object Effects,Effect Added,%STRING_VALUE%,Effects
+Object Effects,Effect Removed,1,Effects
+Object Grouping,Timeline,%STRING_VALUE%,Grouping
+Object Grouping:PI:Size and Position,Group Repositioned,%STRING_VALUE%,Grouping
+Object Grouping:PI:Size and Position,Group Resized,%STRING_VALUE%,Grouping
+Object Grouping:Stage,Add Item to Group,%STRING_VALUE%,Grouping
+Object Grouping:Stage,Group Constrained/Unconstrained,1,Grouping
+Object Grouping:Stage,Group Created,%STRING_VALUE%,Grouping
+Object Grouping:Stage,Group Deleted,%STRING_VALUE%,Grouping
+Object Grouping:Stage,Group hidden/unhidden,1,Grouping
+Object Grouping:Stage,Group locked/unlocked,1,Grouping
+Object Grouping:Stage,Group Merged,%STRING_VALUE%,Grouping
+Object Grouping:Stage,Group Pasted,1,Grouping
+Object Grouping:Stage,Group Rotated,%STRING_VALUE%,Grouping
+Object Grouping:Stage,Group ungrouped,%STRING_VALUE%,Grouping
+Object Grouping:Stage,Item Removed from Group,%STRING_VALUE%,Grouping
+Object Grouping:Stage:Size and Position,Group Repositioned,%STRING_VALUE%,Grouping
+Object Grouping:Stage:Size and Position,Group Resized,%STRING_VALUE%,Grouping
+Object Grouping:Timeline,Group Appear After Changed,1,Grouping
+Object Grouping:Timeline,Group Hide/Unhide,1,Grouping
+Object Grouping:Timeline,Group Locked,1,Grouping
+Object Grouping:Timeline,Group Z-Order Changed,1,Grouping
+Object States,Add State,%STRING_VALUE%,States
+Object States,Delete State ,%STRING_VALUE%,States
+Object States,Delete State,%STRING_VALUE%,States
+Object States,Duplicate State,%STRING_VALUE%,States
+Object States,Enter Advanced State View,%STRING_VALUE%,States
+Object States,Enter In-Place State Edit,1,States
+Object States,Exit Advanced State View,1,States
+Object States,Exit In-Place State Edit,1,States
+Object States,Rename State,%STRING_VALUE%,States
+Object States,Reset State,%STRING_VALUE%,States
+Object States,Set As Default State ,%STRING_VALUE%,States
+Object States,Set Change State Action,%STRING_VALUE%,States
+Objects,Toolbar,%STRING_VALUE%,SVG
+Opening Project,Project Double Click Opened,%STRING_VALUE%,Open Project
+Opening Project,Project Single Click Opened,%STRING_VALUE%,Open Project
+PPT:Edit,Edit PPT,1,PPT
+Preview:SCORM Cloud,LMS Preview launched,%STRING_VALUE%,Preview
+Project Corruption,Project Zip Corruption,%STRING_VALUE%,Project_Corruption
+Project Creation,Blank Project,1,Project_Creation
+Project Creation,Image Slideshow,1,Project_Creation
+Project Creation,Project From PowerPoint,1,Project_Creation
+Project Creation,Project From Template,1,Project_Creation
+Project Creation,Project Template,1,Project_Creation
+Project Creation,Responsive Project,1,Project_Creation
+Project Creation,RTL project creation,1,Project_Creation
+Project Import,Draft Project,1,Project_Draft_Import
+Publish,Publish Type,%STRING_VALUE%,Publish
+Publish,Publish Type,%STRING_VALUE%,Publish
+Publish,Publish Type,%STRING_VALUE%,Publish
+Publish,Publish Type,%STRING_VALUE%,Publish
+Publish,Publish Type,%STRING_VALUE%,Publish
+Publish,Publish Type,%STRING_VALUE%,Publish
+Publish,Publish Type,%STRING_VALUE%,Publish
+Publish,Publish Type,%STRING_VALUE%,Publish
+Publish,Responsive project publish,%STRING_VALUE%,Publish
+Publish:Acap Publish,Prime Window launch,1,Publish
+Publish:Acap Publish,Publish to ACAP,1,Publish
+Publish:Email Publish,Email Publish type,%STRING_VALUE%,Publish
+Publish:EXEPublish,Icon,%STRING_VALUE%,Publish
+Publish:FTP Publish,FTP publish type,%STRING_VALUE%,Publish
+Publish:HTML5 Publish,HTML5 Publish,1,Publish
+Publish:Mac App Publish,Mac App Publish Settings,%STRING_VALUE%,Publish
+Publish:MP4 Publish,MP4 Publish Preset,%STRING_VALUE%,Publish
+Publish:MP4 Publish,MP4 Publish Settings,%STRING_VALUE%,Publish
+Publish:PDF Publish,PDF Publish,1,Publish
+Publish:Publish To Connect,Publish To Connect,1,Publish
+Publish:Publish To Word,Publish To word,%STRING_VALUE%,Publish
+Publish:Publish To Youtube,Publisht To Youtube,1,Publish
+Publish:Swf Publish,SWF Publish,1,Publish
+Question Slides:FilmStrip,Knowledge Check,%STRING_VALUE%,Question_Slides
+Question Slides:FilmStrip,Question Type,%STRING_VALUE%,Question_Slides
+Question Slides:Question pool,Question type,%STRING_VALUE%,Question_Slides
+Responsive:Align Center,Horizontal Align Center,%STRING_VALUE%,Responsive
+Responsive:Align Center,Vertical Align Center,%STRING_VALUE%,Responsive
+Responsive:Break Point,Add breakPoint,%STRING_VALUE%,Responsive
+Responsive:Break Point,Delete Break Point,%STRING_VALUE%,Responsive
+Responsive:Break Point,Modify Break Point Width,%STRING_VALUE%,Responsive
+Responsive:Break Point,Modify Breakpoint Name,%STRING_VALUE%,Responsive
+Responsive:Break Point,Modify Device Height,%STRING_VALUE%,Responsive
+Responsive:Position,% Relative,%STRING_VALUE%,Responsive
+Responsive:Position:Links,Smart Position in Responsive,%STRING_VALUE%,Responsive
+Roundtripping,Flash Roundtripping,1,Roundtripping
+Roundtripping,PSD Roundtripping,1,Roundtripping
+Roundtripping,Soundbooth Roundtripping,1,Roundtripping
+Slide Video,Import,1,Import Video
+Stage,Insert SVG,%STRING_VALUE%,SVG
+Stock,Stock Dialog Launched,1,Adobe_Stock
+SVG,Edit SVG,%STRING_VALUE%,SVG
+SVG,Replace SVG,1,SVG
+Text To Audio,NeoSpeech,%STRING_VALUE%,TTS
+Text To Audio,Speech Agents,%STRING_VALUE%,TTS
+Themes,Apply Custom Theme,%STRING_VALUE%,Themes
+Themes,Insert Master Slide,%STRING_VALUE%,Themes
+Themes,Modify Master Slide,1,Themes
+Themes,Reset Master Slide,1,Themes
+Themes,Themes Panel opened,%STRING_VALUE%,Themes
+Themes,Themes Skin Dialog,%STRING_VALUE%,Themes
+Themes:Apply Theme,Apply Custom Theme,%STRING_VALUE%,Themes
+Themes:Apply Theme,Apply Theme From Panel,%STRING_VALUE%,Themes
+Themes:Apply Theme,Browse Themes,1,Themes
+Themes:Object Styles,OSM Launched,1,Themes
+Themes:Objects,Insert Content Placeholder,1,Themes
+Themes:Save Theme,Save As Theme,1,Themes
+Themes:Save Theme,Save Theme,1,Themes
+Themes:Save Theme,Set As Default Theme,%STRING_VALUE%,Themes
+Themes:Theme Color,Apply Theme Color Scheme,%STRING_VALUE%,Themes
+Themes:Theme Color,Create Theme Color Scheme,%STRING_VALUE%,Themes
+Themes:Theme Color,Show Theme Colors,1,Themes
+TOC,TOC Created,1,TOC
+ToolBar,AddSlidesTool,%STRING_VALUE%,ToolBar_AddSlides
+ToolBar,AddSlidesTool,1,ToolBar_AddSlides
+ToolBar,AdobeStockTool,1,Adobe_Stock
+ToolBar,CommunityHelpTool,1,Community
+ToolBar,InteractionsTool,%STRING_VALUE%,ToolBar_Interaction_Objects
+ToolBar,LibraryTool,1,Library
+ToolBar,MarketTool,%STRING_VALUE%,elearning_brothers
+ToolBar,MediaTool,%STRING_VALUE%,ToolBar_Media_Objects
+ToolBar,ObjectsTool,1,ToolBar_Objects
+ToolBar,ObjectsTool,%STRING_VALUE%,ToolBar_Objects
+ToolBar,PreviewTool,1,Preview
+ToolBar,PreviewTool,%STRING_VALUE%,Preview
+ToolBar,PropertiesTool,1,Properties
+ToolBar,PublishTool,%STRING_VALUE%,Publish
+ToolBar,PublishTool,1,Publish
+ToolBar,RecordTool,1,Audio
+ToolBar,SaveTool,1,ToolBar_Save
+ToolBar,ShapesTool,%STRING_VALUE%,ToolBar_Smartshapes
+ToolBar,TextTool,%STRING_VALUE%,ToolBar_Text_Objects
+Variables,Add GeoLocation Variable,1,Geolocation
+Variables,GeoLocation Map Dialog Open,1,Geolocation
+Widget,Widget Inserted,1,Widget

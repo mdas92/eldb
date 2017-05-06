@@ -1,0 +1,13 @@
+DROP TABLE eldb_cp8.cp8_converted_trial_users;
+DROP TABLE eldb_cp8.cp8_features_renamed;
+DROP TABLE eldb_cp8.cp8_nonconverted_trial_users;
+DROP TABLE eldb_cp8.cp8_optimized_feature_facts;
+DROP TABLE eldb_cp8.cp8_ordered_sessions;
+DROP TABLE eldb_cp8.cp8_ordered_sessions_filtered;
+DROP TABLE eldb_cp8.cp8_preconversion_trial_users;
+DROP TABLE eldb_cp8.cp8_wa_ct;
+DROP TABLE eldb_cp8.cp8_wa_nct;
+DROP TABLE eldb_cp8.cp8_wa_pct;
+DROP TABLE eldb_cp8.cp8_workflow_analysis;
+DROP TABLE eldb_cp8.cp8_workflow_analysis_refined;
+DROP TABLE eldb_cp8.ordered_sessions_ever_on_trial;
