@@ -66,16 +66,11 @@ var colors = {
 var naming=[
 ["CPVC","cpvc"],
 ["FMR","fmr"],
-["Capture","cap"],
 ["Question_Slides","qs"],
 ["Learning_Interactions","li"],
 ["TOC","toc"],
 ["Application_Launch","launch"],
 ["Widget","wdgt"],
-["ToolBar_Media_Objects","media"],
-["ToolBar_Objects","obj"],
-["ToolBar_Smartshapes","ss"],
-["ToolBar_Text_Objects","txt"],
 ["Hyperlink","hyp"],
 ["PPT","ppt"],
 ["Import","imp"],
@@ -90,6 +85,7 @@ var naming=[
 ["Grouping","grp"],
 ["Effects","eff"],
 ["Roundtripping","trip"],
+["Capture","cap"],
 ["Aggregator","agg"],
 ["Audio","aud"],
 ["TTS","tts"],
@@ -98,6 +94,10 @@ var naming=[
 ["Themes","them"],
 ["Properties","prop"],
 ["Library","lib"],
+["ToolBar_Media_Objects","media"],
+["ToolBar_Objects","obj"],
+["ToolBar_Smartshapes","ss"],
+["ToolBar_Text_Objects","txt"],
 ["ToolBar_Save","save"],
 ["Preview","pvw"],
 ["ToolBar_AddSlides","slid"],
@@ -247,6 +247,7 @@ function mouseover(d) {
 function mouseleave(d) {
  //console.log(flag_click);
   // Hide the breadcrumb trail
+  console.log("mouse left");
   if(flag_click==0)
   {
   d3.select("#trail")
@@ -300,7 +301,7 @@ function intermediate_crumbs(clicked_temp)
 	var percentageString = "hello";
 	updateBreadcrumbs(clicked_temp, percentageString);
 }
-
+var first_breadcrumb=1;
 // Given a node in a partition layout, return an array of all of its ancestor
 // nodes, highest first, but excluding the root.
 function getAncestors(node) {
@@ -309,6 +310,14 @@ function getAncestors(node) {
   while (current.parent) {
     path.unshift(current);
     current = current.parent;
+  }
+  console.log(path);
+  if(flag_click==1 && first_breadcrumb==1)
+  {
+	 // console.log(path[(clicked_array.length)-2]);
+	  path[(clicked_array.length)-2].value=path[(clicked_array.length)-2].value-path[(clicked_array.length)-1].value;
+	  first_breadcrumb=0;
+	  console.log("hello");
   }
   return path;
 }
@@ -353,10 +362,10 @@ function updateBreadcrumbs(nodeArray, percentageString) {
 //initializeBreadcrumbTrail();
  //console.log(totalSize);
  var loop;
- console.clear();
- console.log(percentage_calc);
- console.log(totalSize);
- console.log(factor);
+ //console.clear();
+ //console.log(percentage_calc);
+// console.log(totalSize);
+ //console.log(factor);
  var arry=[];
 
 
@@ -364,7 +373,7 @@ function updateBreadcrumbs(nodeArray, percentageString) {
  {
 	 //console.log(nodeArray[loop]);
 	 arry.push([nodeArray[loop].name,nodeArray[loop].value]);
-	 console.log(arry[loop]);
+	 //console.log(arry[loop]);
  }
  
   // Data join; key function combines name and depth (= position in sequence).
@@ -422,8 +431,8 @@ entering2.append("svg:text")
       .attr("text-anchor", "middle")
 	  .style("fill","#FFFFFF")
       .text(function(d) { 
-	  console.log(d.value);
-	  return (100*d.value / (totalSize*factor)).toPrecision(4); });
+	  //console.log(d.value);
+	  return (100*d.value / (totalSize*factor)).toPrecision(3) + "%"; });
 	  
   // Set position for entering and updating nodes.
   g.attr("transform", function(d, i) {
@@ -503,7 +512,7 @@ function drawLegend() {
       .attr("text-anchor", "middle")
       .text(function(d) { 
 	  for(i=0;i<naming.length;i++)
-	  {		
+	  {
 		  if(d.key == naming[i][1])
 			  return naming[i][0];
 	  }
@@ -519,7 +528,7 @@ function toggleLegend() {
     legend.style("visibility", "hidden");
   }
 }
-	
+
 // Take a 2-column CSV and transform it into a hierarchical structure suitable
 // for a partition layout. The first column is a sequence of step names, from
 // root to leaf, separated by hyphens. The second column is a count of how 
@@ -568,12 +577,15 @@ var factor=1;
 function click(d)
 {
 	//initializeBreadcrumbTrail();
+	
 	temp=d;
 	//mouseover(temp);
-	
+	//console.log(temp);
 	percentage_calc = (percentage_calc * d.value / totalSize).toPrecision(3);
-clicked_array=getAncestors(d);
-//console.log(clicked_array);
+clicked_array=getAncestors(temp);
+first_breadcrumb=1;
+console.log(d.length);
+
  // initializeBreadcrumbTrail();
   flag_click = 1;
   //console.log(flag_click);
@@ -587,6 +599,7 @@ clicked_array=getAncestors(d);
       .filter(function(d) {
       return (d.dx > 0.005); // 0.005 radians = 0.29 degrees
       }) ;
+	  //console.log(nodes);
 /* var uniqueNames = (function(a) {
         var output = [];
         a.forEach(function(d) {
@@ -619,7 +632,7 @@ clicked_array=getAncestors(d);
   //d3.select("#container").on("mouseleave", mouseleave);
   factor=fullSize/(path.node().__data__.value);
   totalSize = path.node().__data__.value;
- // console.log(path);
+ //console.log(path);
 }
 
 function arcTween(a){
