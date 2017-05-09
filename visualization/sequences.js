@@ -19,7 +19,7 @@ var colors = {
 "cap": "#1e8145",
 "prop": "#ff0079",
 "publ": "#ff8aee",
-"lms": "#ff8aee",
+"lms": "#8b008b",
 "pvw": "#ff8ae1",
 "qs": "#00bdea",
 "open": "#00bdea",
@@ -666,4 +666,3 @@ function stash(d) {
                     d.x0 = 0;// d.x;
                     d.dx0 = 0;//d.dx;
                 }; 
-				
